@@ -2,18 +2,6 @@
 
 Data Analysis project, Politecnico di Milano, June 2024.
 
-Authors:
-
-- Pouria Khajehpour
-- Mohammad Ali Raheb
-- Muhammad Abdullah Saeed Abdullah
-- Mahshad Rastegarmoghaddam
-
-Supervisors:
-
-- Prof. Stefano Manzoni
-- Dott. Francescantonio Luca
-
 ## Project Summary
 
 This project performs modal analysis of a steel specimen using both finite-element and experimental data.
